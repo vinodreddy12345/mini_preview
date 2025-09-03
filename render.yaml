@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: ai-preview-demo
+    name: mini_preview
     env: docker
     plan: free
     autoDeploy: true
